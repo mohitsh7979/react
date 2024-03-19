@@ -1,6 +1,5 @@
 import "./App.css";
 import image from "./Image/car.jpg";
-
 function App() {
   // const detail = [
   //   {

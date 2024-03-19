@@ -16,3 +16,41 @@ img{
   padding: 10px;
   font-family: sans-serif;
 }
+
+table{
+
+  width: 70%;
+  font-size: 50px;
+}
+
+table tr th{
+  background-color: yellow;
+
+}
+
+h1{
+  text-align: center;
+}
+
+/* *{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container{
+
+  border: 2px solid black;
+  width: 22rem;
+  text-align: center;
+  padding: 20px;
+  display: inline-block;
+  background-color: yellow;
+}
+
+img{
+  width: 60%;
+  height: 200px;
+  border-radius: 200px;
+} */
+
