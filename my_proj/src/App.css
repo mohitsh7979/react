@@ -1,0 +1,19 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.header{
+  height: 10vh;
+  border: 2px solid black;
+ 
+}
+
+.backimage{
+
+  height: 70vh;
+  border: 2px solid black;
+  /* background: url('https://templatemo.com/templates/templatemo_546_sixteen_clothing/assets/images/slide_01.jpg'); */
+
+}
