@@ -1,7 +1,5 @@
-import '../App.css'
-
 function Product(props) {
-
+    console.log(props)
   return (
     <>
       <div className="product-container">

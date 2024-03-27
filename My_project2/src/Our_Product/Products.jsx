@@ -1,5 +1,7 @@
+import '../App.css'
+
 function Product(props) {
-    console.log(props)
+
   return (
     <>
       <div className="product-container">
@@ -12,7 +14,7 @@ function Product(props) {
         <div className="content">
           <div className="content-upper">
             <h3>{props.title}</h3>
-            <h3>{props.price}</h3>
+            <h3>${props.price}</h3>
           </div>
           <div className="content-mid">{props.description}</div>
           <div className="content-lower">
